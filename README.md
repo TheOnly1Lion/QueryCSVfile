@@ -1,2 +1,2 @@
 # QueryCSVfile
-Query CSV 3 different sizes of databases 
+Query CSV using python and sql 3 different sizes of databases 
